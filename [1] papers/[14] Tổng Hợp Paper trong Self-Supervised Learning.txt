@@ -1,0 +1,44 @@
+CLIP (Contrastive Language–Image Pre-training):
+https://arxiv.org/abs/2103.00020
+
+WaveNet:
+https://arxiv.org/abs/1609.03499
+
+Dense Object Net:
+https://arxiv.org/abs/1806.08756
+
+"Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles" (Noroozi & Favaro):
+https://arxiv.org/abs/1603.09246
+
+"Context Encoders: Feature Learning by Inpainting" (Pathak et al.):
+https://arxiv.org/abs/1604.07379
+
+"Unsupervised Representation Learning by Predicting Image Rotations" (Gidaris et al.):
+https://arxiv.org/abs/1803.07728
+
+"Colorful Image Colorization" (Zhang et al.):
+https://arxiv.org/abs/1603.08511
+
+"Tracking Emerges by Colorizing Videos" (Vondrick et al.):
+https://arxiv.org/abs/1806.09594
+
+Doersch et al. 2015 - "Unsupervised Visual Representation Learning by Context Prediction":
+https://arxiv.org/abs/1505.05192
+
+GPT-4: OpenAI không public paper chính thức trên arXiv, nhưng có thể tham khảo technical report của họ tại:
+https://arxiv.org/abs/2303.08774
+
+MoCo v3 - "An Empirical Study of Training Self-Supervised Vision Transformers":
+https://arxiv.org/abs/2104.02057
+
+Masked Autoencoder (MAE):
+https://arxiv.org/abs/2111.06377
+
+Dense Object Net:
+https://arxiv.org/abs/1806.08756
+
+DINO - "Emerging Properties in Self-Supervised Vision Transformers":
+https://arxiv.org/abs/2104.14294
+
+DINOv2 - "DINOv2: Learning Robust Visual Features without Supervision":
+https://arxiv.org/abs/2304.07193
